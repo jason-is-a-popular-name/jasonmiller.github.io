@@ -1,4 +1,4 @@
 # jasonmiller.github.io
 Personal resume site
 
-Live site: [https://jasonmiller.io](https://jasonmiller.io)
+Live site: [jasonmiller.io](https://jasonmiller.io)
